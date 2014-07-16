@@ -1,0 +1,4 @@
+
+  goal:-goal(T),step(T).
+:-not goal.
+1{occurs(A,T):action(A)}2:-not goal(T),step(T).
