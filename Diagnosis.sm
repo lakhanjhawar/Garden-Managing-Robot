@@ -1,0 +1,1 @@
+{occurs(A,T):ex_action(A)}:-current(T1),step(T),T<T1.
