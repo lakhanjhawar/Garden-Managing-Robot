@@ -1,3 +1,5 @@
+Garden Managing Robot
+============
 Software Requirements:
 Clingo 3.0.5
 python 2.7.7
@@ -16,8 +18,7 @@ New files will be created after execution of program with names "actions","goal"
 
 ***********************************************************************************
 
-Garden Managing Robot
-============
+
 
 Action Language (AL) program on answer set programming with python interface.
 
